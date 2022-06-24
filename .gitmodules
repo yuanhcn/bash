@@ -1,0 +1,3 @@
+[submodule "SimpleGame"]
+	path = SimpleGame
+	url = git@github.com:yuanhcn/SimpleGame.git
