@@ -344,7 +344,7 @@ getViewRootImpl().createBackgroundBlurDrawable();
 
 ```
 
-* 应用开发这也可以使用反射：
+* 应用开发者也可以使用反射：
 ```
 /**
  * 通过反射获取BackgroundBlurDrawable对象实例
